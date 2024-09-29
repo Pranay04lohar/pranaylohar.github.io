@@ -1,1 +1,5 @@
-# pranaylohar.github.io
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote
+>>>>>>> branch-name
